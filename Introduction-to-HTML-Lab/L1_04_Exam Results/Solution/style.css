@@ -1,0 +1,22 @@
+body{
+    padding: 50px 70px 0px 350px;
+}
+
+table, thead, tbody, tfoot, tr, th, td {
+    border: solid;
+    font-size: 30px;
+    border-collapse: collapse;
+}
+
+table thead th{
+    padding: 15px 35px 15px 35px;
+    text-align: center;
+}
+
+table tbody tr td {
+    padding: 10px 30px 10px 10px;
+}
+
+table tfoot tr td {
+    padding: 10px;
+}
