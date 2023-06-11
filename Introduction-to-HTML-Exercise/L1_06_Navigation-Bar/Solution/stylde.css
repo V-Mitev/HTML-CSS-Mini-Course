@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+nav {
+    background: #D3D3D3;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+
+nav li {
+    padding: 0 20px;
+    display: inline-block;
+}
+
+nav li a {
+    color: #009900;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #009900;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    height: 100px;
+}
